@@ -8,4 +8,11 @@
     - scipy
     - pandas
 
- 
+## Measures of Central Tendency
+
+- mean
+- weighted mean
+- geometric mean
+- harmonic mean
+- median
+- mode
